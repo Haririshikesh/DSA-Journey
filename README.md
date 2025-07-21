@@ -19,6 +19,9 @@ This repository contains a collection of my solutions to Data Structures and Alg
 |------------|--------------------------------------------------|-------------------------|
 |            | ... Day 1...                                     |                         |
 | 2025-07-20 |  Concatenation of Array (Leetcode - 1929)        | Arrays                  |
+|            | ... Day 2...                                     |                         |
+| 2025-07-21 |  Two Sum (Leetcode - 1)                          | Arrays                  |
+| 2025-07-21 |  Remove Element (Leetcode - 27)                  | Arrays                  |
 | ...        | ...                                              | ...                     |
 
 ## How to Use/Navigate
