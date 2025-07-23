@@ -18,15 +18,31 @@ This repository contains a collection of my solutions to Data Structures and Alg
 | Date       | Problems Solved 🔨💪🏼                            | Topics Covered          |
 |------------|--------------------------------------------------|-------------------------|
 |            | ... Day 1...                                     |                         |
-| 2025-07-20 |  Concatenation of Array (Leetcode - 1929)        | Arrays                  |
+| 2025-07-20 |  Concatenation of Array (Leetcode - 1929)        | Arrays & Hashing        |
 |            | ... Day 2...                                     |                         |
-| 2025-07-21 |  Two Sum (Leetcode - 1)                          | Arrays                  |
-| 2025-07-21 |  Remove Element (Leetcode - 27)                  | Arrays                  |
+| 2025-07-21 |  Two Sum (Leetcode - 1)                          | Arrays & Hashing        |
+| 2025-07-21 |  Remove Element (Leetcode - 27)                  | Arrays & Hashing        |
+|            | ... Day 3...                                     |                         |
+| 2025-07-22 |  Sort an Array(Dual pivot QS)(Single pivot QS - TLE) (Leetcode - 912)                  | Arrays & Hashing        |
+|            | ... Day 3...                                     |                         |
+| 2025-07-23 |  Design Hashset (Leetcode - 706)                 | Arrays & Hashing        |
+| 2025-07-23 |  Design Hashmap (Leetcode - 706)                 | Arrays & Hashing        |
+|            | ... Day 4...                                     |                         |
+| 2025-07-24 |
 | ...        | ...                                              | ...                     |
 
 ## How to Use/Navigate
 
 Solutions are organized by DSA topic in separate folders. Each folder contains Java files with the problem solutions.
+
+## How to Run 
+=> javac src/[TOPIC_FOLDER]/[PROBLEM_NAME]/Main.java src/[TOPIC_FOLDER]/[PROBLEM_NAME]/Solution.java -d bin
+
+eg. javac src/arrays_and_hashing/two_sum/Main.java src/arrays_and_hashing/two_sum/Solution.java -d bin
+
+=> java -cp bin src.[TOPIC_FOLDER].[PROBLEM_NAME].Main
+
+eg. java -cp bin src.arrays_and_hashing.two_sum.Main
 
 ## Contact
 
