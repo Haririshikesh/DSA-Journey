@@ -24,11 +24,11 @@ This repository contains a collection of my solutions to Data Structures and Alg
 | 2025-07-21 |  Remove Element (Leetcode - 27)                  | Arrays & Hashing        |
 |            | ... Day 3...                                     |                         |
 | 2025-07-22 |  Sort an Array(Dual pivot QS)(Single pivot QS - TLE) (Leetcode - 912)                  | Arrays & Hashing        |
-|            | ... Day 3...                                     |                         |
+|            | ... Day 4...                                     |                         |
 | 2025-07-23 |  Design Hashset (Leetcode - 706)                 | Arrays & Hashing        |
 | 2025-07-23 |  Design Hashmap (Leetcode - 706)                 | Arrays & Hashing        |
-|            | ... Day 4...                                     |                         |
-| 2025-07-24 |
+|            | ... Day 5...                                     |                         |
+| 2025-07-24 |  Majority Element (Leetcode - 169)               | Arrays & Hashing        |
 | ...        | ...                                              | ...                     |
 
 ## How to Use/Navigate
