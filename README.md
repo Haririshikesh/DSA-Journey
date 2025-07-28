@@ -46,7 +46,7 @@ Solutions are organized by DSA topic in separate folders. Each folder contains J
 
 eg. javac src/arrays_and_hashing/two_sum/Main.java src/arrays_and_hashing/two_sum/Solution.java -d bin
 
-=> java -cp bin src.[TOPIC_FOLDER].[PROBLEM_NAME].Main
+ => java -cp bin src.[TOPIC_FOLDER].[PROBLEM_NAME].Main
 
 eg. java -cp bin src.arrays_and_hashing.two_sum.Main
 
