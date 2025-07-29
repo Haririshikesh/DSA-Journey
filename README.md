@@ -26,15 +26,18 @@ This repository contains a collection of my solutions to Data Structures and Alg
 | 2025-07-22 |  Sort an Array(Dual pivot QS)(Single pivot QS - TLE) (Leetcode - 912)                  | Arrays & Hashing        |
 |            | ... Day 4...                                     |                         |
 | 2025-07-23 |  Design Hashset (Leetcode - 706)                 | Arrays & Hashing        |
-| 2025-07-23 |  Design Hashmap (Leetcode - 706)                 | Arrays & Hashing        |
 |            | ... Day 5...                                     |                         |
-| 2025-07-24 |  Majority Element (Leetcode - 169)               | Arrays & Hashing        |
+| 2025-07-23 |  Design Hashmap (Leetcode - 706)                 | Arrays & Hashing        |
 |            | ... Day 6...                                     |                         |
-| 2025-07-25 | Sort an Array (Leetcode - )                      | Arrays & Hashing        |
+| 2025-07-24 |  Majority Element (Leetcode - 169)               | Arrays & Hashing        |
 |            | ... Day 7...                                     |                         |
-| 2025-07-26 |  Majority Element (Leetcode - 169)               | Arrays & Hashing        |
+| 2025-07-25 | Sort an Array (Leetcode - )                      | Arrays & Hashing        |
 |            | ... Day 8...                                     |                         |
 | 2025-07-27 |  Top k frequent elements (Leetcode - 347)        | Arrays & Hashing        |
+|            | ... Day 9...                                     |                         |
+| 2025-07-26 |  Product of Array Except Self (Leetcode - 238)   | Arrays & Hashing        |
+|            | ... Day 10...                                    |                         |
+| 2025-07-29 |  Valid Sudoku (Leetcode - 36)                    | Arrays & Hashing        |
 | ...        | ...                                              | ...                     |
 
 ## How to Use/Navigate
