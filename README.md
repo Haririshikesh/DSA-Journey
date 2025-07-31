@@ -10,7 +10,7 @@ This repository contains a collection of my solutions to Data Structures and Alg
 * [Linked Lists](Linked%20Lists)
 * [Trees](Trees)
 * [Graphs](Graphs)
-* [Backtracking](Backtracking)
+* [Backtracking](Backtracking) 
 * [Dynamic Programming](Dynamic%20Programming)
 
 ## Progress
