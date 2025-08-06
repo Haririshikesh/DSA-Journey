@@ -15,30 +15,42 @@ This repository contains a collection of my solutions to Data Structures and Alg
 
 ## Progress
 
-| Date       | Problems Solved 🔨💪🏼                            | Topics Covered          |
-|------------|--------------------------------------------------|-------------------------|
-|            | ... Day 1...                                     |                         |
-| 2025-07-20 |  Concatenation of Array (Leetcode - 1929)        | Arrays & Hashing        |
-|            | ... Day 2...                                     |                         |
-| 2025-07-21 |  Two Sum (Leetcode - 1)                          | Arrays & Hashing        |
-| 2025-07-21 |  Remove Element (Leetcode - 27)                  | Arrays & Hashing        |
-|            | ... Day 3...                                     |                         |
-| 2025-07-22 |  Sort an Array(Dual pivot QS)(Single pivot QS - TLE) (Leetcode - 912)                  | Arrays & Hashing        |
-|            | ... Day 4...                                     |                         |
-| 2025-07-23 |  Design Hashset (Leetcode - 706)                 | Arrays & Hashing        |
-|            | ... Day 5...                                     |                         |
-| 2025-07-23 |  Design Hashmap (Leetcode - 706)                 | Arrays & Hashing        |
-|            | ... Day 6...                                     |                         |
-| 2025-07-24 |  Majority Element (Leetcode - 169)               | Arrays & Hashing        |
-|            | ... Day 7...                                     |                         |
-| 2025-07-25 | Sort an Array (Leetcode - )                      | Arrays & Hashing        |
-|            | ... Day 8...                                     |                         |
-| 2025-07-27 |  Top k frequent elements (Leetcode - 347)        | Arrays & Hashing        |
-|            | ... Day 9...                                     |                         |
-| 2025-07-26 |  Product of Array Except Self (Leetcode - 238)   | Arrays & Hashing        |
-|            | ... Day 10...                                    |                         |
-| 2025-07-29 |  Valid Sudoku (Leetcode - 36)                    | Arrays & Hashing        |
-| ...        | ...                                              | ...                     |
+| Date       | Problems Solved 🔨💪🏼                                               | Topics Covered          |
+|------------|----------------------------------------------------------------------|-------------------------|
+|            | ... Day 1...                                                         |                         |
+| 2025-07-20 | Concatenation of Array (Leetcode - 1929)                             | Arrays & Hashing        |
+|            | ... Day 2...                                                         |                         |
+| 2025-07-21 | Two Sum (Leetcode - 1)                                               | Arrays & Hashing        |
+| 2025-07-21 | Remove Element (Leetcode - 27)                                       | Arrays & Hashing        |
+|            | ... Day 3...                                                         |                         |
+| 2025-07-22 | Sort an Array(Dual pivot QS)(Single pivot QS - TLE) (Leetcode - 912) | Arrays & Hashing        |
+|            | ... Day 4...                                                         |                         |
+| 2025-07-23 | Design Hashset (Leetcode - 706)                                      | Arrays & Hashing        |
+|            | ... Day 5...                                                         |                         |
+| 2025-07-23 | Design Hashmap (Leetcode - 706)                                      | Arrays & Hashing        |
+|            | ... Day 6...                                                         |                         |
+| 2025-07-24 | Majority Element (Leetcode - 169)                                    | Arrays & Hashing        |
+|            | ... Day 7...                                                         |                         |
+| 2025-07-25 | Sort an Array (Leetcode - )                                          | Arrays & Hashing        |
+|            | ... Day 8...                                                         |                         |
+| 2025-07-27 | Top k frequent elements (Leetcode - 347)                             | Arrays & Hashing        |
+|            | ... Day 9...                                                         |                         |
+| 2025-07-26 | Product of Array Except Self (Leetcode - 238)                        | Arrays & Hashing        |
+|            | ... Day 10...                                                        |                         |
+| 2025-07-28 | Valid Sudoku (Leetcode - 36)                                         | Arrays & Hashing        |
+|            | ... Day 12...                                                        |                         |
+| 2025-07-29 | Longest Consecutive Sequence (Leetcode - 128)                        | Arrays & Hashing        |
+|            | ... Day 13...                                                        |                         |
+| 2025-07-30 | Best Time to Buy and Sell Stock II (Leetcode - 122)                  | Arrays & Hashing        |
+|            | ... Day 14...                                                        |                         |
+| 2025-08-04 | Majority Element II (Leetcode - 229)                                 | Arrays & Hashing        |
+|            | ... Day 15...                                                        |                         |
+| 2025-08-05 | Subarray Sum Equals K (Leetcode - 560)                               | Arrays & Hashing        |
+|            | ... Day 16...                                                        |                         |
+| 2025-08-06 | First Missing Positive (Leetcode - 41)                               | Arrays & Hashing        |
+|            | ... Day 17...                                                        |                         |
+| 2025-08-06 | Subarray Sum Equals K (Leetcode - 560)                               | Arrays & Hashing        |
+| ...        | ...                                                                  | ...                     |
 
 ## How to Use/Navigate
 
