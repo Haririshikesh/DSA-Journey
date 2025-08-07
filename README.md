@@ -49,7 +49,7 @@ This repository contains a collection of my solutions to Data Structures and Alg
 |            | ... Day 16...                                                        |                         |
 | 2025-08-06 | First Missing Positive (Leetcode - 41)                               | Arrays & Hashing        |
 |            | ... Day 17...                                                        |                         |
-| 2025-08-06 | Subarray Sum Equals K (Leetcode - 560)                               | Arrays & Hashing        |
+| 2025-08-07 | Reverse String (Leetcode - 344)                                      | Arrays & Hashing        |
 | ...        | ...                                                                  | ...                     |
 
 ## How to Use/Navigate
