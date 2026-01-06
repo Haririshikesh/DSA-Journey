@@ -1,6 +1,8 @@
 # DSA-Daily-Practice 
+# DSA-Journey: LeetCode Solutions
 
 This repository contains a collection of my solutions to Data Structures and Algorithms problems, primarily implemented in Java. This repository serves as a personal learning log and practice ground for improving problem-solving skills in computer science fundamentals.
+This repository contains Java solutions for various Data Structures and Algorithms problems, primarily from LeetCode.
 
 * [Arrays & Hashing](Arrays%20&%20Hashing)
 * [Two Pointers](Two%20Pointers)
@@ -12,61 +14,41 @@ This repository contains a collection of my solutions to Data Structures and Alg
 * [Graphs](Graphs)
 * [Backtracking](Backtracking) 
 * [Dynamic Programming](Dynamic%20Programming)
-
-## Progress
-
-| Date       | Problems Solved 🔨💪🏼                                               | Topics Covered          |
-|------------|----------------------------------------------------------------------|-------------------------|
-|            | ... Day 1...                                                         |                         |
-| 2025-07-20 | Concatenation of Array (Leetcode - 1929)                             | Arrays & Hashing        |
-|            | ... Day 2...                                                         |                         |
-| 2025-07-21 | Two Sum (Leetcode - 1)                                               | Arrays & Hashing        |
-| 2025-07-21 | Remove Element (Leetcode - 27)                                       | Arrays & Hashing        |
-|            | ... Day 3...                                                         |                         |
-| 2025-07-22 | Sort an Array(Dual pivot QS)(Single pivot QS - TLE) (Leetcode - 912) | Arrays & Hashing        |
-|            | ... Day 4...                                                         |                         |
-| 2025-07-23 | Design Hashset (Leetcode - 706)                                      | Arrays & Hashing        |
-|            | ... Day 5...                                                         |                         |
-| 2025-07-23 | Design Hashmap (Leetcode - 706)                                      | Arrays & Hashing        |
-|            | ... Day 6...                                                         |                         |
-| 2025-07-24 | Majority Element (Leetcode - 169)                                    | Arrays & Hashing        |
-|            | ... Day 7...                                                         |                         |
-| 2025-07-25 | Sort an Array (Leetcode - )                                          | Arrays & Hashing        |
-|            | ... Day 8...                                                         |                         |
-| 2025-07-27 | Top k frequent elements (Leetcode - 347)                             | Arrays & Hashing        |
-|            | ... Day 9...                                                         |                         |
-| 2025-07-26 | Product of Array Except Self (Leetcode - 238)                        | Arrays & Hashing        |
-|            | ... Day 10...                                                        |                         |
-| 2025-07-28 | Valid Sudoku (Leetcode - 36)                                         | Arrays & Hashing        |
-|            | ... Day 12...                                                        |                         |
-| 2025-07-29 | Longest Consecutive Sequence (Leetcode - 128)                        | Arrays & Hashing        |
-|            | ... Day 13...                                                        |                         |
-| 2025-07-30 | Best Time to Buy and Sell Stock II (Leetcode - 122)                  | Arrays & Hashing        |
-|            | ... Day 14...                                                        |                         |
-| 2025-08-04 | Majority Element II (Leetcode - 229)                                 | Arrays & Hashing        |
-|            | ... Day 15...                                                        |                         |
-| 2025-08-05 | Subarray Sum Equals K (Leetcode - 560)                               | Arrays & Hashing        |
-|            | ... Day 16...                                                        |                         |
-| 2025-08-06 | First Missing Positive (Leetcode - 41)                               | Arrays & Hashing        |
-|            | ... Day 17...                                                        |                         |
-| 2025-08-07 | Reverse String (Leetcode - 344)                                      | Arrays & Hashing        |
-| ...        | ...                                                                  | ...                     |
+The project is built and managed using Apache Maven.
 
 ## How to Use/Navigate
+## Prerequisites
 
 Solutions are organized by DSA topic in separate folders. Each folder contains Java files with the problem solutions.
+Before you can run any of the solutions, you will need to have the following software installed on your system:
 
 ## How to Run 
-=> javac src/[TOPIC_FOLDER]/[PROBLEM_NAME]/Main.java src/[TOPIC_FOLDER]/[PROBLEM_NAME]/Solution.java -d bin
-
-eg. javac src/arrays_and_hashing/two_sum/Main.java src/arrays_and_hashing/two_sum/Solution.java -d bin
-
- => java -cp bin src.[TOPIC_FOLDER].[PROBLEM_NAME].Main
-
-eg. java -cp bin src.arrays_and_hashing.two_sum.Main
+This project uses Maven. You can compile and run any solution using the provided `run.sh` script.
+The script handles the compilation and execution.
+ 
+`./run.sh <fully.qualified.ClassName>`
+eg. `./run.sh com.rishi.dsa.trees.binary_tree_maximum_path_sum.Main`
+1.  **Git**: To clone the repository.
+2.  **Java Development Kit (JDK)**: Version 21 or higher.
+3.  **Apache Maven**: To compile and execute the code.
 
 ## Contact
+## How to Run a Solution
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/Haririshikesh/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/RishikeshKesavan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:haririshikeshk2003@gmail.com)
+1.  **Clone the repository:**
+    ```bash
+    git clone <your-repository-url>
+    cd DSA-Journey
+    ```
+
+2.  **Use the `run.sh` script:**
+
+    The provided `run.sh` script will compile the entire project and then execute the specified main class.
+
+    To run a specific solution, pass its fully qualified class name to the script. For example:
+    ```bash
+    ./run.sh com.rishi.dsa.trees.binary_tree_maximum_path_sum.Main
+    ```
